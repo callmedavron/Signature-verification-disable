@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
      ROM_URL:
-      description: 'Services.jar Url'
+      description: 'https://2007.filemail.com/api/file/get?filekey=VgwCJ5tXzdQrBN0hD1AC11RBLll7fUkNULCHHZI-LR5aefVuaPYs4aM2AHHVfQ&pk_vid=41ff5985f33a05421749462629836790'
       required: true
       default: ''
 jobs:
